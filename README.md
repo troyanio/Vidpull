@@ -90,9 +90,3 @@ Output will be in the `installer_output` folder.
 
 *For personal use only. Respect copyright and each site's terms of service.*
 ```
-
-Save this as `README.md` in your folder, then:
-```
-git add README.md
-git commit -m "Add README"
-git push
