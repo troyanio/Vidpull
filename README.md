@@ -8,26 +8,22 @@ pick your settings, download. Files go straight to your Downloads folder.
 
 ## Download
 
-- **[Vidpull_Setup.exe](https://github.com/troyanio/Vidpull/releases/latest)** — installs to Program Files, creates a desktop shortcut
-- **[Vidpull_Portable.exe](https://github.com/troyanio/Vidpull/releases/latest)** — single file, no install needed, just run it
+- **[Vidpull_Setup.exe](https://github.com/troyanio/Vidpull/releases/download/v1.0.0/Vidpull_Setup.exe)** — installs to Program Files, creates a desktop shortcut
+- **[Vidpull_Portable.exe](https://github.com/troyanio/Vidpull/releases/download/v1.0.0/Vidpull_Portable.exe)** — single file, no install needed, just run it
 
 ---
 
 ## What it does
 
-- Downloads from YouTube, Instagram, Twitter/X, Twitch, TikTok, Reddit,
-  Facebook, Vimeo and 1000+ sites
+- Downloads from YouTube, Instagram, Twitter/X, Twitch, TikTok, Reddit and 1000+ sites
 - For YouTube you can pick the resolution, video codec (H.264 / H.265 / VP9 / AV1),
   audio codec (AAC / Opus / MP3 / FLAC) and format (MP4 / MP3 / WEBM)
 - For everything else it automatically grabs the best quality available
 - Shows live download speed, file size and progress while downloading
-- Cancel button stops the download immediately
-- Files save directly to your Downloads folder — no browser popup
+- Files save directly to your Downloads folder
 - Quick presets — Best Quality, Balanced, Compatible
-- App color theme changes based on the site you paste (Twitch goes purple,
-  Twitter goes blue, etc.)
+- App color theme changes based on the site you paste
 - FFmpeg is bundled — nothing extra to install
-- Window size adjusts automatically for 1080p, 1440p and 4K monitors
 
 ---
 
